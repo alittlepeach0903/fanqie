@@ -1,0 +1,5 @@
+{
+  "name": "FreshPomodoro",
+  "description": "A minimalist Pomodoro timer with voice activation and a tomato-themed history calendar.",
+  "requestFramePermissions": ["microphone"]
+}
